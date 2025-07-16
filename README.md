@@ -59,10 +59,20 @@
   </a>
 </div>
 
-### Badges
+<br>
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/phuonghuy0410"><img src="https://github-readme-stats.vercel.app/api?username=phuonghuy0410&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="phuonghuy0410's GitHub stats" /></a>
+
+ # <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNmbjlwMm00NzF5aGh3aWozY2g2cnZtM2tvMzdtdmVlY3QxaXNhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t7sEnf5w7wJ1CEPyy7/giphy.gif" width="30" > **Badges**
+
+
+<div align="center">
+  
+  ![gruvbox_light][gruvbox_light]
+  
+</div>
+
+[gruvbox_light]: https://github-readme-stats.vercel.app/api?username=phuonghuy0410&theme=gruvbox_light&show_icons=true
+
 
 
