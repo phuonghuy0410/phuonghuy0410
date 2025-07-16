@@ -14,7 +14,7 @@
 
 <br>
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Tech Stack**
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **Tech Stack**
 
 <div align="center">
 
@@ -45,26 +45,24 @@
 </div>
 <br>
 
-# <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Social**
+# <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **Social**
 <div align="center">
   <a href="https://www.facebook.com/phuonghuy410" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="180" />
   </a>
 
-  <a href="https://www.github.com/phuonghuy0410" target="_blank">
-    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+  <a href="https://www.github.com/phuonghuy0410" target="_blank" >
+    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" width="180" />
   </a>
   <a href="http://www.instagram.com/biinn0410" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="180" />
   </a>
 </div>
 
 <br>
+<br>
 
-
-
- # <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNmbjlwMm00NzF5aGh3aWozY2g2cnZtM2tvMzdtdmVlY3QxaXNhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t7sEnf5w7wJ1CEPyy7/giphy.gif" width="30" > **Badges**
-
+ # <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV2bjU4ZWpkNmo5ZzR1bTRvMzJjdTdyamdseTl6MW43aWsyMGsydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jpQjQVmdzTnOrpbTSj/giphy.gif" width="40" > **Badges**
 
 <div align="center">
   
