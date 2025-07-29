@@ -47,16 +47,21 @@
 
 # <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **Social**
 <div align="center">
+ <p align="center">
   <a href="https://www.facebook.com/phuonghuy410" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="180" />
   </a>
-
-  <a href="https://www.github.com/phuonghuy0410" target="_blank" >
-    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" width="180" />
+  <a href="https://github.com/phuonghuy0410" target="_blank">
+    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="140" />
   </a>
-  <a href="http://www.instagram.com/biinn0410" target="_blank">
+  <a href="https://www.instagram.com/biinn0410" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="180" />
   </a>
+  <a href="https://www.linkedin.com/in/huylephuong-094828377" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="130" height="80"/>
+  </a>
+</p>
+
 </div>
 
 <br>
