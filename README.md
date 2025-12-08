@@ -67,15 +67,6 @@
 <br>
 <br>
 
- # <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV2bjU4ZWpkNmo5ZzR1bTRvMzJjdTdyamdseTl6MW43aWsyMGsydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jpQjQVmdzTnOrpbTSj/giphy.gif" width="40" > **Badges**
-
-<div align="center">
-  
-  ![gruvbox_light][gruvbox_light]
-  
-</div>
-
-[gruvbox_light]: https://github-readme-stats.vercel.app/api?username=phuonghuy0410&theme=gruvbox_light&show_icons=true
 
 
 
