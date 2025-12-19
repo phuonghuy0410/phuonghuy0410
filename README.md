@@ -2,6 +2,7 @@
 ## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Le Phuong Huy
 * 🌍 I'm based in Viet Nam <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20"/>
 * ⚡  Study Computer Science - Data Science at HCM City Open University
+* ⚡  I previously interned at ALCHERA company
 *  ✉️  You can contact me at [phuonghuy410@gmail.com](mailto:phuonghuy410@gmail.com)
 
 <br>
